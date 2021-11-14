@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ## 欢迎访问我的主页
 
 
-[💡 HomePage 🔗](https://github.com/FlechazoPh/FlechazoPh)
+💡 [HomePage 🔗](https://flechazoph.github.io/flechazo.github.io)
 
 
 
