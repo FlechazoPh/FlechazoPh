@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 
 😉性别：♂
 
-- [x] 👨‍💻 Developer
-- [x] 👨‍💻 Love Coding
-- [x] 📸 Photographer
-- [x] 🛩 Traving
-- [x] 🎶 Guitar
+- [x] 👨‍💻 Developer.
+- [x] 👨‍💻 Love Coding.
+- [x] 📸 Photographer.
+- [x] 🛩 Traving.
+- [x] 🎶 Guitar.
 
-## ToDo
+## To Do
 - [ ] Learn To Life
 - [ ] Learn To Love
 
