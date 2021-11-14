@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://skyline.github.com/FlechazoPh/2021">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/skyline.gif" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/FlechazoPh/FlechazoPh/assets/skyline.png" />
 </a>
 
 
