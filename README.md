@@ -1,7 +1,39 @@
-### Hi there 👋
+# Hey there :wave:
+
+<div>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/dino.gif" alt="press space to run!">
+<!--   <img align="center" style="border-radius: 25px; box-shadow: 10px 10px 5px #888888;" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/cover-05.webp" alt="Hello world"> -->
+</div>
+
+<p align="center"> 
+  <br>
+ 当前访问 / Visitor count<br><br>
+  <img src="https://profile-counter.glitch.me/FlechazoPh/count.svg" /><label align="center"> <u> times </u></label>
+</p>
+
+
+## 概述
+
+<a href="https://github.com/FlechazoPh">
+  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/?username=FlechazoPh&count_private=true&show_icons=true&theme=vue-dark" />
+</a>
+<a href="https://github.com/FlechazoPh">
+  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=FlechazoPh&theme=vue-dark" />
+</a>
+
+<a href="https://skyline.github.com/FlechazoPh/2021">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/skyline.gif" />
+</a>
+
+
+## 欢迎访问我的主页
+
+
+[💡 HomePage 🔗](https://github.com/FlechazoPh/FlechazoPh)
+
 
 <!--
-**FlechazoPh/FlechazoPh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wr20060926/wr20060926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +46,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 简介
+🎈昵称：Flechazo
+
+😉性别：♂
+
+- [x] 👨‍💻 Developer
+- [x] 👨‍💻 Love Coding
+- [x] 📸 Photographer
+- [x] 🛩 Traving
+- [x] 🎶 Guitar
+
+## ToDo
+- [ ] Learn To Life
+- [ ] Learn To Love
+
+
+
