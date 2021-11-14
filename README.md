@@ -12,27 +12,6 @@
 </p>
 
 
-## 概述
-
-<a href="https://github.com/FlechazoPh">
-  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/?username=FlechazoPh&count_private=true&show_icons=true&theme=vue-dark" />
-</a>
-<a href="https://github.com/FlechazoPh">
-  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=FlechazoPh&theme=vue-dark" />
-</a>
-<br>
-<br>
-<br>
-<a href="https://skyline.github.com/FlechazoPh/2021">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/FlechazoPh/FlechazoPh/assets/skyline.png" />
-</a>
-
-
-## 欢迎访问我的主页
-
-
-[💡 HomePage 🔗](https://github.com/FlechazoPh/FlechazoPh)
-
 
 <!--
 **wr20060926/wr20060926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -63,5 +42,27 @@ Here are some ideas to get you started:
 - [ ] Learn To Life
 - [ ] Learn To Love
 
+
+## 欢迎访问我的主页
+
+
+[💡 HomePage 🔗](https://github.com/FlechazoPh/FlechazoPh)
+
+
+
+## 概述
+
+<a href="https://github.com/FlechazoPh">
+  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/?username=FlechazoPh&count_private=true&show_icons=true&theme=vue-dark" />
+</a>
+<a href="https://github.com/FlechazoPh">
+  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=FlechazoPh&theme=vue-dark" />
+</a>
+<br>
+<br>
+<br>
+<a href="https://skyline.github.com/FlechazoPh/2021">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/FlechazoPh/FlechazoPh/assets/skyline.png" />
+</a>
 
 
