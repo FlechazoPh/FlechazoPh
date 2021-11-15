@@ -3,7 +3,7 @@
 <div>
   <a href="https://dino.zone"  target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/dino.gif" alt="Click to run!">
-    点击图片开始游戏 ↑
+    <p align="center"> 点击图片开始游戏 ↑ </p>
   </a>
   
 <!--   <img align="center" style="border-radius: 25px; box-shadow: 10px 10px 5px #888888;" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/cover-05.webp" alt="Hello world"> -->
