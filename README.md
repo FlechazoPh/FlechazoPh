@@ -1,7 +1,7 @@
 # Hey there :wave:
 
 <div>
-  <a target="_blank" href="https://dino.zone">
+  <a href="https://dino.zone"  target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/dino.gif" alt="press space to run!">
   </a>
   
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ## 概述
 
-<a target="_blank" href="https://github.com/FlechazoPh">
+<a href="https://github.com/FlechazoPh" target="_blank">
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/?username=FlechazoPh&count_private=true&show_icons=true&theme=vue-dark" />
 </a>
 <a target="_blank" href="https://github.com/FlechazoPh">
