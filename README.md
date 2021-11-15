@@ -1,7 +1,10 @@
 # Hey there :wave:
 
 <div>
-  <img align="center" target="_blank" href="https://dino.zone"  src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/dino.gif" alt="press space to run!">
+  <a target="_blank" href="https://dino.zone">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/dino.gif" alt="press space to run!">
+  </a>
+  
 <!--   <img align="center" style="border-radius: 25px; box-shadow: 10px 10px 5px #888888;" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/cover-05.webp" alt="Hello world"> -->
 </div>
 
