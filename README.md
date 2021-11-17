@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## 欢迎访问我的主页
 
 
-💡 [home.flechao.ml 🔗](https://home.flechao.ml) Or [HomePage 🔗](https://flechazoph.github.io/flechazo.github.io)
+💡 [home.flechao.ml 🔗](https://home.flechazo.ml/) Or [HomePage 🔗](https://flechazoph.github.io/flechazo.github.io)
 
 
 
