@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## 简介
 🎈昵称：Flechazo
 
-😉性别：♂
+😉
 
 - [x] 👨‍💻 Developer.
 - [x] 👨‍💻 Love Coding.
