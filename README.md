@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <a target="_blank" href="https://skyline.github.com/FlechazoPh/2021">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/FlechazoPh/FlechazoPh/assets/skyline-2.png" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/FlechazoPh/FlechazoPh/assets/skyline-3.png" />
 </a>
 
 
