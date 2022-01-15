@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=FlechazoPh&theme=vue-dark" />
 </a>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzvinci&theme=radical">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=flechazoph&theme=radical">
     </td>
 <br>
 <br>
