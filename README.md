@@ -64,9 +64,9 @@ Here are some ideas to get you started:
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/?username=FlechazoPh&count_private=true&show_icons=true&theme=vue-dark" />
 </a>
 
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=flechazoph&theme=radical">
-    </td>
+<td align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flechazoph&theme=radical">
+</td>
 
 <a target="_blank" href="https://github.com/FlechazoPh">
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=FlechazoPh&theme=vue-dark" />
