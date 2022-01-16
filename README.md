@@ -11,7 +11,7 @@
 <p align="center"> 
   <br>
  当前访问 / Visitor count<br><br>
-  <img src="https://profile-counter.glitch.me/FlechazoPh/count.svg" /><label align="center"> <u> times </u></label>
+  <img src="https://profile-counter.glitch.me/FlechazoPh/count.svg" /><label align="center"> <u> times x 👣 </u></label>
 </p>
 
 <!--Trap--:)-->
