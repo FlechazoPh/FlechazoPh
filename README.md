@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About
+## 📄 About
 🎈NickName：Flechazo
 
 👻
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 【Telegram Group - Join To Chat】:airplane: https://t.me/github_chats <br>
 
 
-## To Do
+## 📝 To Do
 - [ ] Learn To Life
 - [ ] Learn To Love
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 
 
-## Details
+## 🕹 Details
 
 <a href="https://github.com/FlechazoPh" target="_blank">
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/?username=FlechazoPh&count_private=true&show_icons=true&theme=vue-dark" />
