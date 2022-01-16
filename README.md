@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 - [x] 📸 Photographer.
 - [x] 🛩 Traving.
 - [x] 🎶 Guitar.
+- [x] 💖 And so on...
 
 【Telegram Group - Join To Chat】:airplane: https://t.me/github_chats <br>
 
@@ -53,7 +54,7 @@ Here are some ideas to get you started:
 - [ ] Learn To Love
 
 
-## Welcom to my home page
+## Welcom to my Homepage
 
 
 💡 [home.flechao.ml 🔗](https://home.flechazo.ml/) Or [HomePage 🔗](https://flechazoph.github.io/flechazo.github.io)
