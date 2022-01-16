@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 ## Personal
 🎈NickName：Flechazo
 
-😉
+👻
 
 - [x] 👨‍💻 Developer.
 - [x] 👨‍💻 Love Coding.
-- [x] 🎮 Love Gaming. [[My WallPaper Engine] Welcome to Describe! 🖱](https://steamcommunity.com/sharedfiles/filedetails/?id=2698114734)
+- [x] 🎮 Love Gaming. [[My WallPaper Engine] Welcome to Describe! 👆](https://steamcommunity.com/sharedfiles/filedetails/?id=2698114734)
 - [x] 📸 Photographer.
 - [x] 🛩 Traving.
 - [x] 🎶 Guitar.
