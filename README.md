@@ -1,4 +1,4 @@
-# Hey there :wave:
+# Hey there~ :wave:
 
 <div>
   <a href="https://dino.zone"  target="_blank">
