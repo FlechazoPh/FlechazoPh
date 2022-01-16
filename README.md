@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Personal
+## About
 🎈NickName：Flechazo
 
 👻
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 
 
-## Detail
+## Details
 
 <a href="https://github.com/FlechazoPh" target="_blank">
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/?username=FlechazoPh&count_private=true&show_icons=true&theme=vue-dark" />
