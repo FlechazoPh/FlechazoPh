@@ -4,14 +4,14 @@
   <a href="https://dino.zone"  target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/dino.gif" alt="Click to run!">
     <br><br>
-    <p align="center"> 点击图片开始游戏 ( Click To Run ! ) 👆 </p>
+    <p align="center">( Click To Run ! ) 👆 </p>
   </a>
   
 <!--   <img align="center" style="border-radius: 25px; box-shadow: 10px 10px 5px #888888;" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/cover-05.webp" alt="Hello world"> -->
 </div>
 <p align="center"> 
   <br>
- 当前访问 / Visitor count<br><br>
+ Current Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/FlechazoPh/count.svg" /><label align="center"> <u> times x 👣 </u></label>
 </p>
 
@@ -33,19 +33,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 简介
-🎈昵称：Flechazo
+## Personal
+🎈NickName：Flechazo
 
 😉
 
 - [x] 👨‍💻 Developer.
 - [x] 👨‍💻 Love Coding.
-- [x] 🎮 Love Gaming. [[我的创意工坊 - WallPaper Engine] 欢迎订阅](https://steamcommunity.com/sharedfiles/filedetails/?id=2698114734)
+- [x] 🎮 Love Gaming. [[My WallPaper Engine] Welcome to Describe!](https://steamcommunity.com/sharedfiles/filedetails/?id=2698114734)
 - [x] 📸 Photographer.
 - [x] 🛩 Traving.
 - [x] 🎶 Guitar.
 
-【Telegram 群组】:airplane: https://t.me/github_chats <br>
+【Telegram Group - Join To Chat】:airplane: https://t.me/github_chats <br>
 
 
 ## To Do
@@ -53,14 +53,14 @@ Here are some ideas to get you started:
 - [ ] Learn To Love
 
 
-## 欢迎访问我的主页
+## Welcom to my home page
 
 
 💡 [home.flechao.ml 🔗](https://home.flechazo.ml/) Or [HomePage 🔗](https://flechazoph.github.io/flechazo.github.io)
 
 
 
-## 概述
+## Detail
 
 <a href="https://github.com/FlechazoPh" target="_blank">
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/?username=FlechazoPh&count_private=true&show_icons=true&theme=vue-dark" />
