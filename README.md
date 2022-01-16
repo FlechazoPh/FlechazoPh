@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 - [x] 👨‍💻 Developer.
 - [x] 👨‍💻 Love Coding.
+- [x] 🎮 Love Gaming. 
 - [x] 📸 Photographer.
 - [x] 🛩 Traving.
 - [x] 🎶 Guitar.
