@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://dino.zone"  target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/dino.gif" alt="Click to run!"><br>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/dino.gif" alt="Click to run!"><br><br>
     <p align="center"> 点击图片开始游戏 (Click To Run !) ↑ </p>
   </a>
   
