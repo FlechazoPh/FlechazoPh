@@ -73,17 +73,6 @@ Here are some ideas to get you started:
 </table>
 
 
-<a href="https://github.com/FlechazoPh" target="_blank">
-  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/?username=FlechazoPh&count_private=true&show_icons=true&theme=vue-dark" />
-</a>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlechazoPh&theme=omni&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
-<a target="_blank" href="https://github.com/FlechazoPh">
-  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=FlechazoPh&theme=vue-dark" />
-</a>
-
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
