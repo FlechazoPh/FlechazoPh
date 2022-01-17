@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=FlechazoPh&theme=vue-dark" />
 </a> </td>
   <td> <td align="center">
-      <img src="https://starchart.cc/FlechazoPh/QLDependency.svg)](https://starchart.cc/FlechazoPh/QLDependency">
+      <img src="https://starchart.cc/FlechazoPh/QLDependency.svg">
    </td> </td>
 </tr>
 </table>
