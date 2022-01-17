@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </a> </td>
   <td> <td align="center">
       <img src="https://starchart.cc/FlechazoPh/QLDependency.svg">
-  Star
+  ⭐ Stargazers Over Time
    </td> </td>
 </tr>
 </table>
