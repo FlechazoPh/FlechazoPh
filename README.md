@@ -73,6 +73,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=flechazoph&theme=radical">
 </a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlechazoPh&theme=omni&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
 <a target="_blank" href="https://github.com/FlechazoPh">
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=FlechazoPh&theme=vue-dark" />
 </a>
