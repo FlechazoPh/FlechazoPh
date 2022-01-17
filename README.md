@@ -69,6 +69,9 @@ Here are some ideas to get you started:
   <td> <a target="_blank" href="https://github.com/FlechazoPh">
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=FlechazoPh&theme=vue-dark" />
 </a> </td>
+  <td> <td align="center">
+      <img src="https://starchart.cc/FlechazoPh/QLDependency.svg)](https://starchart.cc/FlechazoPh/QLDependency">
+   </td> </td>
 </tr>
 </table>
 
