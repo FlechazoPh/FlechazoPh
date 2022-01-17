@@ -64,7 +64,9 @@ Here are some ideas to get you started:
  </td>
 </tr>
 <tr>
-  <td>400</td>
+  <td> <a target="_blank" href="https://github.com/FlechazoPh">
+  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=FlechazoPh&theme=vue-dark" />
+</a> </td>
 </tr>
 </table>
 
