@@ -57,8 +57,11 @@ Here are some ideas to get you started:
 
 <table border="0">
 <tr>
-  <td>100</td>
-  <td>200</td>
+  <td> <a href="https://github.com/FlechazoPh" target="_blank">
+  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/?username=FlechazoPh&count_private=true&show_icons=true&theme=vue-dark" />
+</a> </td>
+  <td> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlechazoPh&theme=omni&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+ </td>
 </tr>
 <tr>
   <td>400</td>
