@@ -33,10 +33,11 @@ Here are some ideas to get you started:
 ## 📄 About Me
 👻 NickName：Flechazo
 
-- [x] 👨‍💻 Developer.
+- [x] 👨‍💻 A Developer.
+- [x] 📸 A Photographer.
+- [x] 🐈 Love Cats Very Much！
 - [x] 👨‍💻 Love Coding.
 - [x] 🎮 Love Gaming. [[My WallPaper Engine] Welcome to Describe! 👆](https://steamcommunity.com/sharedfiles/filedetails/?id=2698114734)
-- [x] 📸 Photographer.
 - [x] 🛩 Traving.
 - [x] 🎶 Guitar.
 - [x] 💖 And so on...
@@ -55,7 +56,7 @@ Here are some ideas to get you started:
 
 ## 🕹 Details
 
-<table border="0.1">
+<table border="0">
 <tr>
   <td> <a href="https://github.com/FlechazoPh" target="_blank">
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/?username=FlechazoPh&count_private=true&show_icons=true&theme=vue-dark" />
