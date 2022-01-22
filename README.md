@@ -46,9 +46,13 @@ Here are some ideas to get you started:
 
 ## ⚡ Technologies
 ![Unity3D](https://img.shields.io/badge/-Unity-gray?style=flat-square&logo=unity&logoColor=007396)
-![Vue.js](https://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=vue.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
+![Cocos2D](https://img.shields.io/badge/-Cocos2D-gray?style=flat-square&logo=cocos&logoColor=blue)
 ![C#](https://img.shields.io/badge/-CSharp-gray?style=flat-square&logo=csharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=typescript)
+![Vue.js](https://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=vue.js)
+
+
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git)
 
 ## 📝 To Do
