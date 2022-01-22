@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 【Telegram Group - Join To Chat】:airplane: https://t.me/github_chats <br>
 
 ## ⚡ Technologies
-![Unity 3D](https://img.shields.io/badge/-Unity3D-gray?style=flat-square&logo=unity&logoColor=007396)
-![Cocos 2D](https://img.shields.io/badge/-Cocos2D-gray?style=flat-square&logo=cocos&logoColor=blue)
+![Unity 3D](https://img.shields.io/badge/-Unity 3D-gray?style=flat-square&logo=unity&logoColor=007396)
+![Cocos 2D](https://img.shields.io/badge/-Cocos Creator 2D-gray?style=flat-square&logo=cocos&logoColor=blue)
 ![C#](https://img.shields.io/badge/-CSharp-gray?style=flat-square&logo=csharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=typescript)
