@@ -1,5 +1,8 @@
 # Hey there~ :wave:
-
+  <td> <td align="center">
+      <img src="https://starchart.cc/FlechazoPh/QLDependency.svg">
+  ⭐ Stargazers Over Time
+   </td> </td>
 <div>
   <a href="https://dino.zone"  target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/dino.gif" alt="Click to run!">
@@ -34,12 +37,7 @@ Here are some ideas to get you started:
 👻 NickName：Flechazo
 
 - [x] 👨‍💻 A Developer.
-- [x] 📸 A Photographer.
-- [x] 🐈 Love Cats Very Much！
-- [x] 👨‍💻 Love Coding.
 - [x] 🎮 Love Gaming. [[My WallPaper Engine] Welcome to Describe! 👆](https://steamcommunity.com/sharedfiles/filedetails/?id=2698114734)
-- [x] 🛩 Traveling.
-- [x] 🎶 Guitar.
 - [x] 💖 And so on...
 
 【Telegram Group - Join To Chat】:airplane: https://t.me/github_chats <br>
@@ -49,9 +47,7 @@ Here are some ideas to get you started:
 ![Cocos 2D](https://img.shields.io/badge/-CocosCreator2D-gray?style=flat-square&logo=cocos&logoColor=blue)
 ![C#](https://img.shields.io/badge/-CSharp-gray?style=flat-square&logo=csharp)
 ![Lua](https://img.shields.io/badge/-Lua-gray?style=flat-square&logo=lua&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=typescript&logoColor=007396)
-![Vue.js](https://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=vue.js)
 
 
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git)
