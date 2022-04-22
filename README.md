@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - [x] 🐈 Love Cats Very Much！
 - [x] 👨‍💻 Love Coding.
 - [x] 🎮 Love Gaming. [[My WallPaper Engine] Welcome to Describe! 👆](https://steamcommunity.com/sharedfiles/filedetails/?id=2698114734)
-- [x] 🛩 Traving.
+- [x] 🛩 Traveling.
 - [x] 🎶 Guitar.
 - [x] 💖 And so on...
 
