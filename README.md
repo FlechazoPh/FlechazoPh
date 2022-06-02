@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 </tr>
 <tr>
   <td>
-  <a target="_blank" href="https://github.com/FlechazoPh">
+  <a target="_blank" align="center" href="https://github.com/FlechazoPh">
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=FlechazoPh&theme=vue-dark" />
 </a> </td>
   <td> <td align="center">
