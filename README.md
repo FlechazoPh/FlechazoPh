@@ -90,9 +90,10 @@ Here are some ideas to get you started:
  </td>
 </tr>
 <tr>
-  <td> <a target="_blank" href="https://github.com/FlechazoPh">
+  <td><td align="center">
+  <a target="_blank" href="https://github.com/FlechazoPh">
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=FlechazoPh&theme=vue-dark" />
-</a> </td>
+</a> </td></td>
   <td> <td align="center">
       <img src="https://api.githubtrends.io/user/svg/FlechazoPh/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
 <!--   ⭐ Stargazers Over Time -->
