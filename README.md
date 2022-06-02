@@ -94,9 +94,9 @@ Here are some ideas to get you started:
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=FlechazoPh&theme=vue-dark" />
 </a> </td>
   <td> <td align="center">
-<!--       <img src="https://starchart.cc/FlechazoPh/QLDependency.svg">
-  ⭐ Stargazers Over Time -->
-    [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/FlechazoPh/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
+      <img src="https://api.githubtrends.io/user/svg/FlechazoPh/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
+  ⭐ Stargazers Over Time
+<!--     [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/FlechazoPh/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io) -->
    </td> </td>
 </tr>
 </table>
