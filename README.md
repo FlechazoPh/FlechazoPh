@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 </a> </td>
   <td> <td align="center">
       <img src="https://api.githubtrends.io/user/svg/FlechazoPh/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
-  ⭐ Stargazers Over Time
+<!--   ⭐ Stargazers Over Time -->
 <!--     [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/FlechazoPh/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io) -->
    </td> </td>
 </tr>
