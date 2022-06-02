@@ -20,9 +20,9 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!-- Markdown -->
-
+<p align="center"> 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
+</p>
 
 <!--
 **wr20060926/wr20060926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
