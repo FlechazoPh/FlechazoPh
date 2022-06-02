@@ -71,6 +71,9 @@ Here are some ideas to get you started:
 
 💡 [home.flechao.ml 🔗](https://home.flechazo.ml/) Or [HomePage 🔗](https://flechazoph.github.io/flechazo.github.io)
 
+<p align="center">	<!-- (optional) center align -->
+    <img src="[/path/to/svg](https://github.com/ankurparihar/readme-pagespeed-insights/blob/master/assets/banner.svg)" width="50%">
+</p>
 
 ## 🕹 Details
 
