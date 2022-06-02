@@ -23,8 +23,9 @@
 <p align="center"> 
   
   <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+  <br><br>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
   
 </p>
 
