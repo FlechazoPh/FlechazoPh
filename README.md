@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&lines=Hi+There+~;%E4%BD%A0%E5%A5%BD~)](https://git.io/typing-svg)
+
 # Hey there~ :wave:
   <td> <td align="center">
       <img src="https://starchart.cc/FlechazoPh/QLDependency.svg">
