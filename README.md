@@ -152,3 +152,6 @@ Here are some ideas to get you started:
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
+  
+  
+  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/FlechazoPh/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
