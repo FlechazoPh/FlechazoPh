@@ -7,7 +7,7 @@
    </td> </td>
 <div>
   <a href="https://dino.zone"  target="_blank">
-    <img align="center" src="https://github.com/FlechazoPh/FlechazoPh/blob/main/assets/dino.gif" alt="Click to run!">
+    <img align="center" src="https://github.com/FlechazoPh/FlechazoPh/blob/main/assets/dino.gif?raw=true" alt="Click to run!">
     <br><br>
     <p align="center">( Click To Run ! ) 👆 </p>
   </a>
